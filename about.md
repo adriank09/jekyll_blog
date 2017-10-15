@@ -8,4 +8,4 @@ permalink: /about/
 
 Hi, I'm Adrian Khor.
 
-<img src="{{ "images/profile_fb.jpg" | absolute_url }}" />
+<img src="{{ "images/profile_fb.jpg" }}" />
